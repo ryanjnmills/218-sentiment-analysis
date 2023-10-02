@@ -1,2 +1,2 @@
 # 218-sentiment-analysis
-AI group project on sentiment analysis classificaiton for subject csci218.
+Machine learning group project on sentiment analysis classification for subject csci218.
